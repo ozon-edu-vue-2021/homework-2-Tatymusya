@@ -1,0 +1,8 @@
+:root {
+    --base-unit: 6px;
+    --double-unit: 12px;
+    --base-step: 2px;
+
+    --font-face-basic: 'Helvetica Neue', Arial, sans-serif;
+    --font-size-basic: 13px;
+}
